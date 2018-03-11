@@ -1,4 +1,4 @@
-# To Do application
+# ToDo application with Django Rest and AngularJS
 
 ToDo application based on Django with Django REST Framework  and AngularJS  
 

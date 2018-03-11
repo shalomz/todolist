@@ -1,6 +1,6 @@
 # To Do application
 
-To Do application based on Django with Django REST Framework  and AngularJS  
+ToDo application based on Django with Django REST Framework  and AngularJS  
 
 Python 3 
 
